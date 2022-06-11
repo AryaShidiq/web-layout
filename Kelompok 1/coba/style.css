@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* background-color: red; */
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.kiri{
+    width: 75%;
+    background-color: black;
+    height: 350px;
+}
+.kanan{
+    width: 25%;
+    background-color: gray;
+    height: 350px;
+}
+.isi{
+    width: 200px;
+    background-color: red;
+    height: 60px;
+    margin: 20px;
+    margin-left: 50px;
+}
