@@ -1,0 +1,106 @@
+.navbar{
+    background-image: linear-gradient(to right,#DA4453,#89216B);
+}
+#hero{
+    padding-top: 2%;
+    background-image: linear-gradient(to right,#DA4453,#89216B);
+}
+#hero img{
+    height: 350px;
+}
+#service{
+    margin-top: -2%;
+    margin-bottom: 30px;
+}
+.garis{
+    width: 150px;
+    height: 10px;
+    border-bottom: 2px solid #89216B;
+    position: relative;
+    margin: -15px auto 0;
+}
+#service img{
+    height: 150px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.font14{
+    font-size: 14px;
+}
+#service button{
+    margin-top: 20px;
+    background-image: linear-gradient(to right,#DA4453,#89216B);
+    width: 120px;
+    font-size: 14px;
+}
+#about{
+    background-color: #f1f2f0;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+/* #about h2{
+    padding-bottom: 80px;
+} */
+#about img{
+    margin-top: -11%;
+}
+#testimonial .container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.garis2{
+    width: 250px;
+    height: 10px;
+    border-bottom: 2px solid #89216B;
+    position: relative;
+    margin: -50px auto;
+    margin-bottom: 80px;
+}
+.garis3{
+    width: 150px;
+    height: 10px;
+    border-bottom: 2px solid #89216B;
+    position: relative;
+    margin: -15px auto 0;
+    margin-bottom: 60px;
+}
+.card-testi p{
+    font-size: 11px;
+    font-weight: lighter;
+}
+.card-testi{
+    border-left: 4px solid #89216B;
+}
+.card-testi img{
+    width: 50px;
+    height: 50px;
+
+}
+.card-testi span{
+    font-size: 12px;
+}
+.card-testi em{
+    font-size: 12px;
+    font-weight: lighter;
+}
+#sosialmedia img{
+    width: 50px;
+    height: 50px;
+}
+#sosialmedia{
+    background-color: #f1f2f0;
+    padding-top: 50px;
+    /* position: relative; */
+}
+.list-icon a{
+    margin-left: 10px;
+}
+#footer{
+    background-image: linear-gradient(to right,#DA4453,#89216B);
+    padding-bottom: 50px;
+    margin-top: -5%;
+}
+#footer p{
+    font-size: 11px;
+    font-weight: lighter;
+}
