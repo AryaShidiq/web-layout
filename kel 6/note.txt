@@ -1,0 +1,13 @@
+ -Font awesome, taro dihead
+  <script src="https://kit.fontawesome.com/ba0c4ed4ca.js" crossorigin="anonymous"></script>
+
+-aos animasi
+    taro - dihead
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+    taro - atas tutup tag 
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
+
